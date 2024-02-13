@@ -1,6 +1,6 @@
 # Angular Real Estate
 
-This project was made following the [Your First App Tutorial from Angular docs](https://angular.io/tutorial/first-app). It implements routing, services, directives, forms and 
+This project was made following the ["Your First App" Tutorial](https://angular.io/tutorial/first-app) from Angular docs. It implements routing, services, directives, forms and 
 asynchronous HTTP communication. 
 
 ## Run this app
@@ -9,4 +9,4 @@ Run `npm install` to install the project dependencies. Start the mock REST API b
 
 ### Requirements
 
-Before starting the a development server, make sure you have [`json-server`](https://www.npmjs.com/package/json-server) installed globally. You also need [Node.js](https://nodejs.org/en) and [npm](https://www.npmjs.com/), first and foremost.
+Before starting the development server, make sure you have [`json-server`](https://www.npmjs.com/package/json-server) installed globally. You also need [Node.js](https://nodejs.org/en) and [npm](https://www.npmjs.com/), first and foremost.
